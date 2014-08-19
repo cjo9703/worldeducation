@@ -41,7 +41,7 @@
   }
   else {
     echo '  <a href="login.php">Log In</a><br />';
-    echo ' <a href="view_info.php"  >View cost</a><br />';
+    echo ' <a href="view_info.php"  >View Lecture</a><br />';
     echo ' <a href="signup.php">Sign Up</a><br/><br/><br/>';
     echo ' <a href="problem.html">problem</a><br />';
     echo ' <a href="index_k.php">한국어로 보기</a><br />';
