@@ -45,6 +45,7 @@
     echo ' <a href="signup.php">Sign Up</a><br/><br/><br/>';
     echo ' <a href="problem.html">problem</a><br />';
     echo ' <a href="index_k.php">한국어로 보기</a><br />';
+    echo ' <a href ="index.php">login by face book</a><br/>';
   }
 
   // Connect to the database 
